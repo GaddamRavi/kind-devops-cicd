@@ -29,7 +29,7 @@ def check_database():
 def home():
     return jsonify({
         "application": "kind-devops-cicd",
-        "status": "running"
+        "status": "running-v2"
     })
 
 
